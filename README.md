@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lvlzyro&label=Profile%20views&color=0e75b6&style=flat" alt="lvlzyro" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lvlzyro" alt="lvlzyro" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/lvlzyro" target="blank"><img src="https://img.shields.io/twitter/follow/lvlzyro?logo=twitter&style=for-the-badge" alt="lvlzyro" /></a> </p>
 
 - learning: **reactnative, flutter, godot**
@@ -32,7 +30,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/lvlzyro"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lvlzyro" /></a><a href="https://ko-fi.com/lvlzyro"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="lvlzyro" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lvlzyro&show_icons=true&locale=en&layout=compact" alt="lvlzyro" /></p>
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lvlzyro&" alt="lvlzyro" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lvlzyro&show_icons=true&locale=en&layout=compact" alt="lvlzyro" /></p>
 
