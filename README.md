@@ -12,7 +12,7 @@
 
 - i write about life: [lvlzyro.github.com](lvlzyro.github.com)
 
-- i think i kinda know: **html5, css3,**
+- i think i kinda know: **html5, css3, javascript, python, golang, c#**
 
 - to reach me: **lvlzyro@gmail.com**
 
