@@ -33,6 +33,6 @@
 
 <br>
 
-### 🎧 Now Playing
+### Now Playing
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rccgg7fpxtseua2zc0217e42c&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=rccgg7fpxtseua2zc0217e42c&redirect=true)
