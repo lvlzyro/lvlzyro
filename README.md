@@ -35,4 +35,4 @@
 
 ### Now Playing
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rccgg7fpxtseua2zc0217e42c&cover_image=true&theme=novatorem&bar_color=610000&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=rccgg7fpxtseua2zc0217e42c&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rccgg7fpxtseua2zc0217e42c&cover_image=true&theme=novatorem&bar_color=008285&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=rccgg7fpxtseua2zc0217e42c&redirect=true)
